@@ -8,5 +8,6 @@ div {
 }
 .name {
 	position: relative;
-	left:800px
+	left:650px;
+	background-color:white;
 }
