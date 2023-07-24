@@ -1,6 +1,14 @@
 /*  your css code here. If applicable */
 * {
+	margin: 0px;
+	padding: 0px;
 	background-color: #f5f5f5;
+}
+body {
+	padding: 50px;
+}
+h1 {
+	margin-bottom: 15px;
 }
 div {
 	padding: 10px;
@@ -8,6 +16,6 @@ div {
 }
 .name {
 	position: relative;
-	left:650px;
+	left:1200px;
 	background-color:white;
 }
